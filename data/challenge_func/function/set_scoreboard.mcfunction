@@ -11,10 +11,7 @@ team modify Red color red
 team add Blue "Blue Team"
 team modify Blue color blue
 
-scoreboard objectives add teamRand dummy
+team leave @a
 
-
-scoreboard players random @a teamRand 0 1
-
-team join Red @a[scores={teamRand=0}]
-team join Blue @a[scores={teamRand=1}]
+execute as @a if entity @s[x_rotation=..179] run team join Red @s
+execute as @a if entity @s[x_rotation=180..] run team join Blue @s
