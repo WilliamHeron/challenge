@@ -1,6 +1,6 @@
 
 
-# /function challenge_func:set_scoreboard
+# /function mc_game:set_scoreboard
 
 say Setting scoreboard.
 

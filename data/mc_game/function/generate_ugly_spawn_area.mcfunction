@@ -1,5 +1,5 @@
 
-# /function challenge_func:challenge_init
+# /function mc_game:challenge_init
 
 say Generating Challenge Initialization structures! :D 8===D
 
