@@ -42,6 +42,42 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "minecraft:horse_spawn_egg",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_horse_armor",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:saddle",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
           "name": "minecraft:ender_pearl",
           "functions": [
             { "function": "minecraft:set_count", "count": 1 }

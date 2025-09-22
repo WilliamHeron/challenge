@@ -49,6 +49,30 @@
         }
       ]
     },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crossbow",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 2 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spectral_arrow",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 128 }
+          ]
+        }
+      ]
+    },
     {
       "rolls": 1,
       "entries": [

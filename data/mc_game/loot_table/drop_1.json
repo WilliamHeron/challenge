@@ -25,6 +25,30 @@
         }
       ]
     },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_axe",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:recovery_compass",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
     {
       "rolls": 1,
       "entries": [

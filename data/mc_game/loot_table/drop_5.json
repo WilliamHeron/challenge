@@ -18,9 +18,93 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_chestplate",
+          "name": "minecraft:golden_carrot",
           "functions": [
             { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glass_bottle",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 12 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:fermented_spider_eye",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nether_wart",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 12 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brewing_stand",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 3 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bow",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 2 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crossbow",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 2 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spectral_arrow",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 256 }
           ]
         }
       ]

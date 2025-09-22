@@ -1,6 +1,18 @@
 {
   "type": "minecraft:chest",
   "pools": [
+     {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sweet_berries",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 64 }
+          ]
+        }
+      ]
+    },
     {
       "rolls": 1,
       "entries": [
@@ -25,12 +37,48 @@
         }
       ]
     },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:turtle_helmet",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spyglass",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
     {
       "rolls": 1,
       "entries": [
         {
           "type": "minecraft:item",
           "name": "minecraft:iron_sword",
+          "functions": [
+            { "function": "minecraft:set_count", "count": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:recovery_compass",
           "functions": [
             { "function": "minecraft:set_count", "count": 4 }
           ]
